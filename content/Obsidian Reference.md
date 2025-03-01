@@ -1,5 +1,5 @@
 ---
-title: Obsidian Reference
+title: "Obsidian Reference"
 ignore: true
 ---
 # Paragraphs
