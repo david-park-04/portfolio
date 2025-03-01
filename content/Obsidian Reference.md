@@ -1,6 +1,6 @@
 ---
 title: Obsidian Reference
-ignore: true
+ignore: false
 ---
 # Paragraphs
 - A blank line to separate blocks of text.
@@ -15,3 +15,8 @@ This is another paragraph.
 This is a...  
 paragraph.
 
+# Text Styling
+## Bold, italics, highlights
+- Bold: ** **
+- Italic: * *
+- Highlight: == ==
