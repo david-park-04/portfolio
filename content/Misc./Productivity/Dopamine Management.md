@@ -4,7 +4,7 @@ Dopamine is a neurotransmitter which plays a role in motivation, drive, and exci
 # Managing our Dopamine Levels
 For us to then manage our dopamine levels, it's necessary that we do our best to avoid participating in events that cause a substantial peak in dopamine levels. These types of events which cause substantial peaks result in sharp drops in dopamine below the baseline, hence why having to study or do chores is more difficult after something like scrolling social media.
 
-# Dopamine Detoxxing
+# Dopamine Detoxing
 Simply avoiding dopamine inducing events is easier said than done. There are a few steps in which we can detox from dopamine to:
 
 1) Preparation
