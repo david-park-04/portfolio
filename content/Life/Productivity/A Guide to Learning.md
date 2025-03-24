@@ -1,4 +1,4 @@
-A general guide to effectively learning.
+A general guide to effective learning.
 
 # Priming
 Before building on our knowledge, it's first helpful to have the stable foundation necessary to be able to do so. Through priming, we gain a foundational understanding of a topic by familiarizing ourselves with what content we're about to learn and skimming through keywords.
