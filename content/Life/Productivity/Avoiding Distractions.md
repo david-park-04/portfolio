@@ -20,6 +20,6 @@ Putting in place barriers to make it more difficult to give in to impulses, we g
 #  Keeping on Track
 - [[Time Management]]
 - Identify with who you want to be
-- Find habits to replace your distractions (reading, exercising)
+- Find habits to replace your distractions (reading, exercising, etc.)
 - Understand the privilege in being able to work
 
