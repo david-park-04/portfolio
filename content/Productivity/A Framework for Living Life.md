@@ -62,6 +62,5 @@ Simple steps to adopt for making progress.
 	- Keep track of events through a calendar
 - Routine - things to not compromise on 
 - Journalling - be conscious of changes from day to day
--
 
 
