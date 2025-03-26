@@ -55,7 +55,13 @@ After formulating our reasons for why, we can start to think about our actions a
 - Create things - either some small project or contributing towards something.
 - Look to hobbies (reading, exercising, sports, cooking, etc.)
 
+# Execution
+Simple steps to adopt for making progress.
 
-
+- Time management - failing to plan is planning to fail
+	- Keep track of events through a calendar
+- Routine - things to not compromise on 
+- Journalling - be conscious of changes from day to day
+-
 
 
