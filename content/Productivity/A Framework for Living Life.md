@@ -8,8 +8,8 @@ After parsing through multiple sources regarding purpose and productivity, I set
 ![Pyramid of Life](pyramid-of-life.png)
 
 # Purpose
-At the most fundamental level, it's necessary to figure out what you wish to get out life. Without a driving force, I believe it's inevitable that there'll be times in which feelings of doubt and meaninglessness toward what you're working towards will sprout.
+At the most fundamental level, it's necessary to figure out what you wish to get out life. Without a driving force, I believe it's inevitable that there'll be times in which feelings of doubt and meaninglessness for what you're working towards will sprout.
 
-To derive a purpose, begin to look within yourself. While you may admire others and the lives they live, it's your inner voice which you have to pay attention to and form a connection with. To hear your inner voice, we need to reduce external stimulation that's caused us to externalize our attention 
+To derive a purpose, begin to look within yourself. While you may admire others and the lives they live, it's your inner voice which you have to pay attention to and form a connection with. To hear your inner voice, we need to reduce external stimulation that's caused us to externalize our attention. 
 
 
