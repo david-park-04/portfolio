@@ -2,7 +2,7 @@
 title: Welcome!
 ---
 
-Hi! This is my digital garden, a collection of my notes on various topics. It's neither comprehensive nor complete, but rather holds content at different stages of growth.
+Hi! Welcome to my digital garden — a growing collection of notes on a variety of topics. It’s not meant to be comprehensive or complete, but rather a space where ideas are in different stages of development.
 
-These notes are primarily written for my own purpose of organizing my thoughts, but I hope they can offer some help for you as well!
+These notes are primarily for my own understanding and reflection, but I hope you find something useful here too!
 
