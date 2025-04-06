@@ -1,38 +1,39 @@
-My framework for going about life. 
+A framework for going about life. 
 
 # Overview
-A common answer when people respond to the question **“What is the purpose of life?”** is **“to be happy.”** But can't we be happy while being stagnant in life? Why is a life of working hard better than a life spending every waking hour playing video games or rotting in bed? What gives us reason to push forward? This framework was the outcome of experiencing this conflicting view firsthand.
+A common answer when people respond to the question **“What is the purpose of life?”** is **“to be happy.”** But isn't it possible to feel happy even while being stagnant? Why is a life of hard work then seen as more meaningful than one spent indulging in comfort and escapism? What drives us to push forward at all? This framework emerged from grappling with that tension firsthand.
 
-After going through multiple sources regarding purpose and productivity, I settled on a framework for thinking about life through a pyramid composed of 4 levels. 
+Learning from multiple sources regarding purpose and productivity, I settled on a framework for thinking about life through a pyramid composed of 4 levels. 
 
 ![Pyramid of Life](pyramid-of-life.png)
 
 # Purpose
-At the most fundamental level, it's necessary to figure out what we wish to get out of life. Without a driving force, I believe it's inevitable that there'll be times in which feelings of doubt for what we're working towards will sprout.
+*What do you want out of life?*
 
-To derive a purpose, begin to look within yourself. While you may admire others and the lives they live, it's your inner voice which you have to pay attention to and form a connection with. To hear your inner voice, we need to reduce the external stimulation that's caused us to externalize our attention. 
+At the most fundamental level, it's necessary to determine what you want out of life. Without figuring out your driving force, it's inevitable that there'll be times in which feelings of doubt for what you're working towards will sprout.
 
-The process of reducing external stimulation from sources such as social media or video games will certainly result in periods of boredom. During these times, keep in mind that your brain being bored is like a child complaining about not getting what they want. While counterintuitive, the brain doesn't fully know what's best for itself. 
+To derive this purpose, a greater sense of clarity has to be gained through reducing attention towards external stimuli. When too much attention is given to these addictive sources such as short form content, it becomes increasingly difficult to maintain vision of and alignment with what we really value. Intense feelings of boredom will urge you to give in to temptations, but know that this is just your brain complaining to you in its sneaky little way. It'll attempt to bargain with you on what you already planned to be a done deal in hopes of gaining an inch of ground. When these feelings arise, stand true to your words of what you said you would accomplish, as it's only then it becomes possible to start diminishing the whiny acts of the brain.
 
 # Values
-With an idea of what we wish to get out of life, we can start to make this idea more tangible by thinking about what type of person we wish to become. 
+*Who do you want to become?*
 
-Are there skills which you want to master?
-What areas do you hope to become knowledgeable in?
-How do you imagine your best possible future self?
-Who do you wish to be surrounded by?
+Once an idea of what you wish to get out of life is determined, a more tangible vision of who you wish to become can be formulated. Ask yourself the following:
+- What do I want to become good at or knowledgeable of?
+- What hobbies do I wish to pick up?
+- What type of character do you hope to adopt?
+
+With a mental picture of the ideal version of your future self, let this version of you stand as an intermediary between your impulses and your actions. Let it monitor your decisions from here on forth, while you work to embody your future self under its guidance.
 
 # Systems
-After formulating our reasons for why, we can start to think about our actions and understanding for how. What do we need to understand about the pitfalls in trying to work towards where we want to go?
+Beyond reasons for why, it's important to recognize the pitfalls in how.
 
 ## Cutting Distractions
 **Dopamine**
 - Dopamine heavy activities increase the price you have to pay to experience joy.
-- You need to work to satisfy biological drives (agency, identity, community, etc.)
-	- Having easy sources of dopamine strip away this necessary work done by the brain
+- You need to work to satisfy biological drives (agency, identity, community, etc.), but having easy sources of dopamine strip away this necessary work done by the brain.
 
 **Discipline**
-- You don't have to work 100% of the time, your mind knows that's not possible. You do need to continuously put effort in.
+- While you don't have to always grit your teeth and do everything 100%, you do have to keep the ball rolling and continuously take steps towards where you want to go.
 - Don't be so caught up in one day that you lose sight of your whole life.
 - Retain full consciousness of your actions.
 
@@ -42,7 +43,7 @@ After formulating our reasons for why, we can start to think about our actions a
 
 ## Emotion Regulation
 **Motivation**
-- Separate your actions from thoughts & emotions
+- Separate your actions from thoughts & emotions.
 - Question what about yourself, your identity, is so unwilling to do something.
 
 **Happiness**
@@ -54,6 +55,9 @@ After formulating our reasons for why, we can start to think about our actions a
 - Create emotionally salient/charged experiences that build your relationship with yourself. Find something challenging or new.
 - Create things - either some small project or contributing towards something.
 - Look to hobbies (reading, exercising, sports, cooking, etc.)
+
+**Stress**
+- Your reaction to feelings of stress is a choice. Let these feelings be dealt with through decisive action.
 
 # Execution
 Simple steps to adopt for making progress.
