@@ -25,6 +25,8 @@ Once an idea of what you wish to get out of life is determined, a more tangible 
 With a mental picture of the ideal version of your future self, let this version of you stand as an intermediary between your impulses and your actions. Let it monitor your decisions from here on forth, while you work to embody your future self under its guidance.
 
 # Systems
+*Methods to keep in check.*
+
 Beyond reasons for why, it's important to recognize the pitfalls in how.
 
 ## Cutting Distractions
@@ -60,6 +62,8 @@ Beyond reasons for why, it's important to recognize the pitfalls in how.
 - Your reaction to feelings of stress is a choice. Let these feelings be dealt with through decisive action.
 
 # Execution
+*Plan for achievement.*
+
 Simple steps to adopt for making progress.
 
 - Time management - failing to plan is planning to fail
