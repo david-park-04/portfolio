@@ -20,7 +20,7 @@ To derive this purpose, a greater sense of clarity has to be gained through redu
 Once an idea of what you wish to get out of life is determined, a more tangible vision of who you wish to become can be formulated. Ask yourself the following:
 - What do I want to become good at or knowledgeable of?
 - What hobbies do I wish to pick up?
-- What type of character do you hope to adopt?
+- What type of characteristics do I hope to have?
 
 With a mental picture of the ideal version of your future self, let this version of you stand as an intermediary between your impulses and your actions. Let it monitor your decisions from here on forth, while you work to embody your future self under its guidance.
 
