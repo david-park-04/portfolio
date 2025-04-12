@@ -12,7 +12,7 @@ Learning from multiple sources regarding purpose and productivity, I settled on 
 
 At the most fundamental level, it's necessary to determine what you want out of life. Without figuring out your driving force, it's inevitable that there'll be times in which feelings of doubt for what you're working towards will sprout.
 
-To derive this purpose, a greater sense of clarity has to be gained through reducing attention towards external stimuli. When too much attention is given to these addictive sources such as short form content, it becomes increasingly difficult to maintain vision of and alignment with what we really value. Intense feelings of boredom will urge you to give in to temptations, but know that this is just your brain complaining to you in its sneaky little way. It'll attempt to bargain with you on what you already planned to be a done deal in hopes of gaining an inch of ground. When these feelings arise, stand true to what you said you would accomplish, as it's only then it becomes possible to start diminishing the whiny acts of the brain. The decisions you make in these moments should never, ever be taken lightly. They are what separate you from the path you wish to go and the path to feelings of regret and lack of fulfillment. Believe in the accumulation of all your actions.
+To derive this purpose, a greater sense of clarity has to be gained through reducing attention towards addictive sources, i.e. any short form content. Attention given to these sources cause it to become increasingly difficult to maintain vision of and alignment with what we really value. Distancing yourself from time sinks will undoubtably be difficult, with intense feelings of boredom urging you to give in to temptations, but know that this is just your brain complaining to you in its sneaky little way. It'll attempt to bargain with you on what you already planned to be a done deal in hopes of gaining an inch of ground. When these feelings arise, stand true to what you said you would accomplish, as it's only then it becomes possible to start diminishing the whiny acts of the brain. The decisions you make in these moments should never, ever be taken lightly. They're what separate you from the path you wish to go and the path to feelings of regret and lack of fulfillment. Believe in the accumulation of your actions.
 
 # Values
 *Who do you want to become?*
@@ -56,7 +56,7 @@ Beyond reasons for why, it's important to recognize the pitfalls in how.
 **Loneliness (When you're working by yourself)**
 - Create emotionally salient/charged experiences that build your relationship with yourself. Find something challenging or new.
 - Create things - either some small project or contributing towards something.
-- Look to hobbies (reading, exercising, sports, cooking, etc.)
+- Look to hobbies (reading, exercising, sports, cooking, etc.).
 
 **Stress**
 - Your reaction to feelings of stress is a choice. Let these feelings be dealt with through decisive action.
