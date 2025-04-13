@@ -1,9 +1,9 @@
 A framework for going about life. 
 
 # Overview
-A common answer when people respond to the question **“What is the purpose of life?”** is **“to be happy.”** But isn't it possible to feel happy even while being stagnant? Why is a life of hard work then seen as more meaningful than one spent indulging in comfort and escapism? What drives us to push forward at all? This framework emerged from grappling with that tension firsthand.
+A common answer when people respond to the question **“What is the purpose of life?”** is **“to be happy.”** But isn't it possible to feel happy even while being stagnant? Why is a life of hard work then seen as more meaningful than one spent indulging in comfort and escapism? What drives us to push forward at all? This framework emerged from grappling with this tension firsthand.
 
-Learning from multiple sources regarding purpose and productivity, I settled on a framework for thinking about life through a pyramid composed of 4 levels. 
+Learning from multiple sources regarding productivity and purpose, I settled on a framework for thinking about life through a pyramid composed of 4 levels, with an understanding of lower levels helping support those above it.
 
 ![Pyramid of Life](pyramid-of-life.png)
 
@@ -12,7 +12,7 @@ Learning from multiple sources regarding purpose and productivity, I settled on 
 
 At the most fundamental level, it's necessary to determine what you want out of life. Without figuring out your driving force, it's inevitable that there'll be times in which feelings of doubt for what you're working towards will sprout.
 
-To derive this purpose, a greater sense of clarity has to be gained through reducing attention towards addictive sources, i.e. any short form content. Attention given to these sources cause it to become increasingly difficult to maintain vision of and alignment with what we really value. Distancing yourself from time sinks will undoubtably be difficult, with intense feelings of boredom urging you to give in to temptations, but know that this is just your brain complaining to you in its sneaky little way. It'll attempt to bargain with you on what you already planned to be a done deal in hopes of gaining an inch of ground. When these feelings arise, stand true to what you said you would accomplish, as it's only then it becomes possible to start diminishing the whiny acts of the brain. The decisions you make in these moments should never, ever be taken lightly. They're what separate you from the path you wish to go and the path to feelings of regret and lack of fulfillment. Believe in the accumulation of your actions.
+To derive this purpose, a greater sense of clarity has to be gained through reducing attention towards easy dopamine sources. Attention given to these sources cause it to become increasingly difficult to maintain vision of and alignment with what we really value. Distancing yourself from these time-sinks will undoubtably be difficult, with intense feelings of boredom urging you to give in to temptations, but know that this is just your brain complaining to you in its sneaky little way. It'll attempt to bargain with you on what you already planned to be a done deal in hopes of gaining an inch of ground. When these feelings arise, stand true to what you said you would accomplish, as it's only then it becomes possible to start diminishing the whiny acts of the brain. The decisions you make in these moments should never, ever be taken lightly. They're what separate you from the path you wish to go and the path to feelings of regret and lack of fulfillment. Believe in the accumulation of your actions.
 
 # Values
 *Who do you want to become?*
@@ -53,7 +53,7 @@ Beyond reasons for why, it's important to recognize the pitfalls in how.
 - Decrease what you want vs. increasing what you have by practicing gratitude.
 - Extend the period of contentment for the things you obtain, increasing the window of reflection.
 
-**Loneliness (When you're working by yourself)**
+**Loneliness**
 - Create emotionally salient/charged experiences that build your relationship with yourself. Find something challenging or new.
 - Create things - either some small project or contributing towards something.
 - Look to hobbies (reading, exercising, sports, cooking, etc.).
@@ -65,7 +65,6 @@ Beyond reasons for why, it's important to recognize the pitfalls in how.
 *Plan for achievement.*
 
 Simple steps to adopt for making progress.
-
 - Time management - failing to plan is planning to fail
 	- Keep track of events through a calendar
 - Routine - things to not compromise on 
