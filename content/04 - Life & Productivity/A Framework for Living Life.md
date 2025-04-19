@@ -53,7 +53,7 @@ Beyond reasons for why, it's important to recognize the pitfalls in how.
 - Decrease what you want vs. increasing what you have by practicing gratitude.
 - Extend the period of contentment for the things you obtain, increasing the window of reflection.
 
-**Loneliness**
+**Loneliness/Boredom**
 - Create emotionally salient/charged experiences that build your relationship with yourself. Find something challenging or new.
 - Create things - either some small project or contributing towards something.
 - Look to hobbies (reading, exercising, sports, cooking, etc.).
