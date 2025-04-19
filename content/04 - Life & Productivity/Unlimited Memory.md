@@ -20,3 +20,8 @@ author: Kevin Horsley
 - Identify your self-limiting beliefs and question them.
 - Incorporate new, more positive beliefs into your identity.
 - The 5 Core Beliefs:
+	1) I have excellent concentration and memory
+	2) Memory improvement is important
+	3) I have incredible abilities. My memory is unlimited
+	4) There is no failure, only feedback
+	5) I don't know it all
