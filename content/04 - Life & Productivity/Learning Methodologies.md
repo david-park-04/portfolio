@@ -8,8 +8,8 @@ Ask yourself questions while you're learning, such as:
 - How does it connect to what I know?
 
 **Reaching Mastery**
-- Revise what you've learned as soon as possible, avoid losing the context for what you've learned
-- Try to manipulate the content as to be able to summarize it and have it form an intuitive mind map
+- Revise what you've learned as soon as possible, avoid losing context
+- Try to manipulate the content as to be able to summarize it and form an intuitive mind map
 - Practice active recall and spaced repetition
 - Complete practice problems
 - Try to teach it, explaining and writing about it
