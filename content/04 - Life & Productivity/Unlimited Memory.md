@@ -10,7 +10,7 @@ author: Kevin Horsley
 - Memory is not an innate ability, but rather a habit that can be improved by each and every individual.
 - 4 C's for memory improvement - Concentration, Creating imagery, Connecting concepts, Continuous use
 
-==*Part 1: Concentration*==
+==Part 1: Concentration==  
 **Chapter 2: Excuse Me**
 - Excuses are thought viruses preventing us learning effectively.
 - Where attention goes, energy flows.
