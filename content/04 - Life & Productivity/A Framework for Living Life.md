@@ -45,7 +45,7 @@ Beyond reasons for why, it's important to recognize the pitfalls in how.
 
 ## Emotion Regulation
 **Motivation**
-- Separate your actions from thoughts & emotions.
+- Separate how your feelings and thoughts from your actions.
 - Question what about yourself, your identity, is so unwilling to do something.
 
 **Happiness**
