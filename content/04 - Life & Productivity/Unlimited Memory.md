@@ -2,8 +2,6 @@
 title: Unlimited Memory
 author: Kevin Horsley
 ---
-# Key Ideas
-
 # Chapter Notes
 **Chapter 1: Introduction**
 - Memory forms the cornerstone of our existence.
@@ -14,7 +12,7 @@ author: Kevin Horsley
 **Chapter 2: Excuse Me**
 - Excuses are thought viruses preventing us learning effectively.
 - Where attention goes, energy flows.
-- Your opinions about yourself form the ceiling for you can become.
+- Your opinions about yourself form the ceiling for what you can become.
 
 **Chapter 3: Never Believe a Lie**
 - Identify your self-limiting beliefs and question them.

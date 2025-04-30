@@ -11,5 +11,5 @@ Ask yourself questions, such as:
 - Revise what you've learned as soon as possible to avoid losing context.
 - Manipulate the content as to be able to summarize it and create an intuitive mind map.
 - Practice active recall and spaced repetition.
-- Complete practice problems.
+- Apply the material (and do it often)!
 - Teach it and write about it.
