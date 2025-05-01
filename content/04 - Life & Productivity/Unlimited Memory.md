@@ -28,4 +28,7 @@ author: Kevin Horsley
 - Concentration is made up of many small choices consistently practiced.
 - The brain consistently changes when you learn something new.
 - Conflict is the opposite of concentration.
+- The 4 areas of focus:
+	1) Your inner voice
+	2) Prevent multitasking
 
