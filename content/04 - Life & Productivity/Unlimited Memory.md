@@ -31,4 +31,5 @@ author: Kevin Horsley
 - The 4 areas of focus:
 	1) Your inner voice
 	2) Prevent multitasking
+	3) ...
 
