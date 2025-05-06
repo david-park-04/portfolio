@@ -1,7 +1,7 @@
 **Priming**
 - Lay the foundation for what you're about to learn by skimming through keywords.
 
-**The Event**
+**The Event**  
 Ask yourself questions, such as:
 - What is it?
 - Why is it important?
