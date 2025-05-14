@@ -1,11 +1,11 @@
 A list of books that I hope to read, am reading, or already have read.
 
-# Reading
+**Reading**
+
+**Planning to Read**
+
+**Have Read**
 
 
-# Planning to Read
-
-
-# Have Read
 
 
