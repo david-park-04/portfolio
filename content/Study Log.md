@@ -1,11 +1,11 @@
 A daily record of my study hours to track progress and stay consistent.
 
-Total Hours: 6  
-Start Date: May 12th, 2025
+Total Hours: 0  
+Start Date: May 14th, 2025
 
 | **Date** | **Hours Studied** |
 | -------- | ----------------- |
-| 5-12-25  | 6                 |
+| 5-14-25  |                   |
 
 
 
