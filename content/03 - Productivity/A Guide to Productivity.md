@@ -4,7 +4,7 @@
 3. Time Management
 
 ## Learning Effectively
-Foreword: While effective learning helps us ultimately learn more in less time, it isn't the same fast, easy learning. The process of trying to understand material will inevitably need to be effortful to have impact.
+Foreword: While effective learning helps us ultimately learn more in less time, it isn't the same as fast, easy learning. The process of trying to understand material will inevitably need to be effortful to have impact.
 
 The optimal steps for learning can be broken down roughly into 3 stages:
 1) Priming
@@ -36,7 +36,7 @@ When practicing retrieval:
 - Apply the material.
 - Teach it and write about it.
 
-Additionally, depending on different types of content, it can be helpful to emphasize certain learning methods and incorporate various memorization techniques. When, learning something procedural, involving a lot of steps, for example, it's best to do practice problems frequently.
+Additionally, depending on different types of content, it can be helpful to emphasize certain learning methods and incorporate various memorization techniques. When learning something procedural, for example, it's best to do practice problems frequently.
 
 ## Habits and Regulation of Emotion
 ### Habits
