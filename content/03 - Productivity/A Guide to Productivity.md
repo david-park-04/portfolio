@@ -19,11 +19,30 @@ To properly prime, skim through the content to pick out what you believe are the
 ### Encoding
 Encoding in learning is the process of juggling around with information so that it is understood and remembered by the brain. 
 
+While you're diving into the learning material, ask yourself questions, such as:
+1) What is it?
+2) Why is it important?
+3) How is it relevant?
+
+Take notes in a minimal manner and only when needed to off-load information.
+
+### Retrieval
+Retrieval is how you fill in the gaps in your knowledge and strengthen your understanding. 
+
+When practicing retrieval:
+- Revise what you've learned as soon as possible to avoid losing context.
+- Manipulate the content as to be able to summarize it and create an intuitive mind map.
+- Practice active recall and spaced repetition.
+- Apply the material.
+- Teach it and write about it.
+
+Additionally, depending on different types of content, it can be helpful to emphasize certain learning methods and incorporate various memorization techniques. When, learning something procedural, involving a lot of steps, for example, it's best to do practice problems frequently.
+
 ## Habits and Regulation of Emotion
 ### Habits
 See [[Atomic Habits]] for more details.
 
-The act of forming long-lasting habits can be summarized as letting ourselves take on new identities. If you wish to have some attribute, imagine you do have the attribute, and live life in such a manner that you are someone with that given attribute.
+The act of forming long-lasting habits can be summarized as letting ourselves take on new identities. If you wish to have some quality, imagine you do have the quality, and live life in such a manner that you are someone aligning with this belief.
 
 ### Regulation of Emotion
 - Stress: Your reaction to stress is a choice. Focus on what you're able to control.
