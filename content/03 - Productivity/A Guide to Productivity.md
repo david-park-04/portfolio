@@ -1,4 +1,4 @@
-# Contents
+## Contents
 1. Learning Effectively
 2. Habits and Regulation of Emotion
 3. Time Management
