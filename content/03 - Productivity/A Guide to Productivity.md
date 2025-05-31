@@ -38,6 +38,9 @@ When practicing retrieval:
 
 Additionally, depending on different types of content, it can be helpful to emphasize certain learning methods and incorporate various memorization techniques. When learning something procedural, for example, it's best to do practice problems frequently.
 
+---
+Beyond these stages, it's also important to realize how your mindset plays into learning. Learning, becoming a better version of yourself, is inherently enjoyable, but easy dopamine sources and lack of engagement with material can make learning seem less fun. Cut out distractions and try to interact with content further through involving more of your senses, imagining you're having a conversation with the author, visualizing heavily, etc.
+
 ## Habits and Regulation of Emotion
 ### Habits
 See [[Atomic Habits]] for more details.
