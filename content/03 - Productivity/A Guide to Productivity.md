@@ -14,7 +14,7 @@ The optimal steps for learning can be broken down roughly into 3 stages:
 ### Priming
 Priming is the process of gaining a foundational understanding of what you're about to learn. By attempting to first form a bigger picture of the material, you create anchor points through which you can identify relevance.
 
-To properly prime, skim through the content to pick out what you believe are the important keywords and topics. While you do so, briefly attempt to gain a vague understanding of the connection between keywords and topics to create the anchor points for future use.
+To properly prime, skim through the content to pick out what you believe are the important keywords and topics. While you do so, briefly attempt to gain an understanding of the connection between keywords and topics to create the anchor points for future use.
 
 ### Encoding
 Encoding in learning is the process of juggling around with information so that it is understood and remembered by the brain. 
