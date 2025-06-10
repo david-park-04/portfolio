@@ -1,10 +1,11 @@
 A daily record of my study hours to track progress and stay consistent.
 
-Total Hours: 60  
+Total Hours: 64  
 Start Date: May 26th, 2025
 
 | **Date** | **Hours Studied** |
 | -------- | ----------------- |
+| 6-10-25  |                   |
 | 6-9-25   | 4                 |
 | 6-8-25   | 1                 |
 | 6-7-25   | 3                 |
