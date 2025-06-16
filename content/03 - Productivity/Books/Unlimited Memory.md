@@ -9,6 +9,7 @@ author: Kevin Horsley
 - 4 C's to improving memory: Concentration, Creating imagery, Connecting concepts, Continuous use
 
 ==Part 1: Concentrate==  
-
+**Chapter 2: Excuse Me**  
+- 
 
 
