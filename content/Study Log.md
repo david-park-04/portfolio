@@ -5,7 +5,6 @@ Start Date: June 19th, 2025
 
 | **Date** | **Hours Studied** |
 | -------- | ----------------- |
-| 6.19.25  |                   |
 
 
 
